@@ -36,7 +36,7 @@ setup(
     keywords='certbot dns plugin yandex 360',
     python_requires='>=3.6',
     project_urls={
-        'Source': 'https://github.com/siameseoriental/certbot-ya360-plugin',
-        'Bug Reports': 'https://github.com/siameseoriental/certbot-ya360-plugin/issues',
+        'Source': 'https://github.com/siameseoriental/certbot-dns-yandex-360',
+        'Bug Reports': 'https://github.com/siameseoriental/certbot-dns-yandex-360/issues',
     },
 )
